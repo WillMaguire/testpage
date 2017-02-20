@@ -1,5 +1,8 @@
 body {
-  background-image:url('/home/will/WDI/code_along/fullslack/hosting/thing.JPG');
+  background-image:url('http://i.imgur.com/RWoG7UU.jpg');
   width: 0 auto;
   height: 100%
+}
+h2 {
+  font-size: 30pt
 }
